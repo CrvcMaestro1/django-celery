@@ -6,4 +6,4 @@ env
 staticfiles
 .idea
 project/.pytest_cache
-project/logs/
+project/logs/celery.log
