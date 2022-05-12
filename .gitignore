@@ -5,3 +5,5 @@ env
 .DS_Store
 staticfiles
 .idea
+project/.pytest_cache
+project/logs/
